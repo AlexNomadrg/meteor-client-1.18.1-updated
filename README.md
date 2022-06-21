@@ -10,6 +10,7 @@
 
 ## Added from future versions
 - Favorites
+- Fixed flight fall damage
 
 ## Usage
 
