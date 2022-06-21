@@ -5,7 +5,7 @@
 
 <h1 align="center">Meteor Client</h1>
 
-<p align="center">A Minecraft Fabric Utility Mod for the latest Minecraft release.</p>
+<p align="center">A Minecraft Fabric Utility Mod for Minecraft 1.18.1.</p>
 
 <div align="center">
     <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
@@ -20,6 +20,9 @@
     <img src="https://www.codefactor.io/repository/github/meteordevelopment/meteor-client/badge" alt="CodeFactor"/>
     <img src="https://circleci.com/gh/MeteorDevelopment/meteor-client/tree/master.svg?style=shield" alt="CircleCI"/>
 </div>
+
+## Added from future versions
+- Favorites
 
 ## Usage
 
